@@ -1,0 +1,3 @@
+password = github --settings --developer settings personal access token --generate toker 
+(copy that token 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)
+
